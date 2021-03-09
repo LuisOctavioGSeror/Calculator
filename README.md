@@ -15,4 +15,4 @@ A beautiful  and fully functional calculator app
 
 ## Adtional info
 
-This is a project to create a fuly functional and beautiful calculator app for desktop environment
+This is a fully functional and beautiful calculator app for desktop environment
