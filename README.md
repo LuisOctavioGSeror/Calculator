@@ -1,6 +1,8 @@
 # Calculator
 A beautiful  and fully functional calculator app 
 
+![calculator](https://github.com/LuisOctavioGSeror/Calculator/blob/main/calculator2.gif)
+
 ## Requirements
 
 * Kivy 
